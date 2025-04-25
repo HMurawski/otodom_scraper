@@ -1,0 +1,17 @@
+# Ignoruj pliki Excela
+excel_exports/
+*.xlsx
+
+# Ignoruj chromedrivera
+chromedriver/
+chromedriver.exe
+
+# Ignoruj pliki systemowe
+.DS_Store
+Thumbs.db
+
+# Ignoruj środowisko virtualne, jeśli używasz
+.venv/
+env/
+
+testing_solutions/
